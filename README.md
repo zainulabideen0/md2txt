@@ -10,7 +10,7 @@ python -m pip install markdown beautifulsoup4 PyQt6
 
 ***
 
-* start `md_gui_app.py`
+* start `md2txt.py`
 * drag markdown file into window
 
 <h3 align="center">
